@@ -51,4 +51,4 @@ image
 對extend而言，延伸用例並不包含基礎用例的內容，基礎用例也不包含延伸用例的內容。
 對Include而言，子用例包含基礎用例的所有內容及其和其他用例或參與者之間的關係。
 參考資料
-实验二、UML建模之用例分析与设计
+[实验二、UML建模之用例分析与设计](https://liush.blog.csdn.net/article/details/123818285?spm=1001.2101.3001.6650.10&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-10-123818285-blog-124869427.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-10-123818285-blog-124869427.235%5Ev43%5Econtrol&utm_relevant_index=19)
